@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="playagain">Play Again</string>
+    <string name="enterNum">Enter your guess</string>
+    <string name="welcome_to_the_game">Welcome to the game!</string>
+    <string name="try_to_guess_a_number_between_1_and_100">Try to guess a number between 1 and 100</string>
+    <string name="number_of_tries">Number of tries:</string>
+    <string name="_0">0</string>
+    <string name="number_of_tries_0">Number of tries : 0</string>
+    <string name="hint_0">Hint:</string>
+    <string name="enter">Enter</string>
+    <string name="give_up">Give Up</string>
+    <string name="get_me_out">Get me out!</string>
+</resources>
